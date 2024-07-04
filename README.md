@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hey! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+I'm Kale, a recent Electrical Engineering graduate from the University of Calgary.
 
+I'm interested in all things hardware. My primary focus is **embededd systems** with emphasis on hardware/firmware co-development. I'm always looking for new projects and opportunities to learn and grow my skills. 
+
+Outside of work, you can find me out climbing or at home reading science fiction or playing video games.
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/kale-fordham-a618691b2/)
+[<img src="https://img.shields.io/badge/Email-B6D0E2.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIA0KCSB2aWV3Qm94PSIwIDAgNzUuMjk0IDc1LjI5NCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Zz4NCgk8cGF0aCBkPSJNNjYuMDk3LDEyLjA4OWgtNTYuOUM0LjEyNiwxMi4wODksMCwxNi4yMTUsMCwyMS4yODZ2MzIuNzIyYzAsNS4wNzEsNC4xMjYsOS4xOTcsOS4xOTcsOS4xOTdoNTYuOQ0KCQljNS4wNzEsMCw5LjE5Ny00LjEyNiw5LjE5Ny05LjE5N1YyMS4yODdDNzUuMjk1LDE2LjIxNSw3MS4xNjksMTIuMDg5LDY2LjA5NywxMi4wODl6IE02MS42MDMsMTguMDg5TDM3LjY0NywzMy41MjNMMTMuNjkxLDE4LjA4OQ0KCQlINjEuNjAzeiBNNjYuMDk3LDU3LjIwNmgtNTYuOUM3LjQzNCw1Ny4yMDYsNiw1NS43NzEsNiw1NC4wMDlWMjEuNDU3bDI5Ljc5NiwxOS4xNmMwLjA0LDAuMDI1LDAuMDgzLDAuMDQyLDAuMTI0LDAuMDY1DQoJCWMwLjA0MywwLjAyNCwwLjA4NywwLjA0NywwLjEzMSwwLjA2OWMwLjIzMSwwLjExOSwwLjQ2OSwwLjIxNSwwLjcxMiwwLjI3OGMwLjAyNSwwLjAwNywwLjA1LDAuMDEsMC4wNzUsMC4wMTYNCgkJYzAuMjY3LDAuMDYzLDAuNTM3LDAuMTAyLDAuODA3LDAuMTAyYzAuMDAxLDAsMC4wMDIsMCwwLjAwMiwwYzAuMDAyLDAsMC4wMDMsMCwwLjAwNCwwYzAuMjcsMCwwLjU0LTAuMDM4LDAuODA3LTAuMTAyDQoJCWMwLjAyNS0wLjAwNiwwLjA1LTAuMDA5LDAuMDc1LTAuMDE2YzAuMjQzLTAuMDYzLDAuNDgtMC4xNTksMC43MTItMC4yNzhjMC4wNDQtMC4wMjIsMC4wODgtMC4wNDUsMC4xMzEtMC4wNjkNCgkJYzAuMDQxLTAuMDIzLDAuMDg0LTAuMDQsMC4xMjQtMC4wNjVsMjkuNzk2LTE5LjE2djMyLjU1MUM2OS4yOTUsNTUuNzcxLDY3Ljg2LDU3LjIwNiw2Ni4wOTcsNTcuMjA2eiIvPg0KPC9nPg0KPC9zdmc+&style=for-the-badge&logoColor=white&"/>](mailto:kalefordham@gmail.com)
 <!--
 **KaleF07/KaleF07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
