@@ -1,7 +1,7 @@
 ## Hey! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 I'm Kale, a recent Electrical Engineering graduate from the University of Calgary.
 
-I'm interested in all things computers. My primary focus is **embededd systems** with emphasis on hardware/firmware co-development. Some of my previous experience includes working on microcontroller systems using STM32-based devices.
+I'm interested in all things computers. My primary focus is **embedded systems** with emphasis on hardware/firmware co-development. Some of my previous experience includes working on microcontroller systems using STM32-based devices.
 I'm always looking for new projects and opportunities to learn and grow my skills. 
 
 Outside of work, you can find me out climbing or at home reading science fiction or playing video games.
